@@ -1,0 +1,30 @@
+- About .
+- Timelines .
+- Join as member
+- Autorization 
+- FAQ
+- Partners .
+- Feedback
+- Countdown Timer .
+- Tickets .
+- Contacts .
+- Add articles
+- Speakers
+- Reminder (notification)
+- require for registration
+- committee .
+
+
+Colors:
+- New Background #1E1F1E
+- Blue button #164CA1
+
+- Text White #F5F5F5
+- Background #121212
+
+- Grey Text #D7D8DF
+
+- Yellow #FFD734
+- Peach #F05457
+- Dark Blue #13103B
+- Purple Blue #3700B3
