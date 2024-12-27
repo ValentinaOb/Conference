@@ -28,3 +28,8 @@ Colors:
 - Peach #F05457
 - Dark Blue #13103B
 - Purple Blue #3700B3
+
+
+python\venv\Scripts\activate
+cd python\login_signup 
+python manage.py runserver

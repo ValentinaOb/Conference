@@ -1,0 +1,20 @@
+Before Start
+- Create a virtual environment using virtualenvwrapper: mkvirtualenv -p which python3 <ypur-virtual-env-name>
+- Install test requirements: pip install -r test-requirements.txt
+
+Activate & Run Server
+python\venv\Scripts\activate
+cd python\login_signup 
+python manage.py runserver
+
+
+
+///
+cd python
+python -m venv ven
+pip install django
+django-admin startproject login_signup 
+cd .\login_signup\
+
+python manage.py startapp base 
+
