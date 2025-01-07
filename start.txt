@@ -3,11 +3,11 @@ Before Start
 - Install test requirements: pip install -r test-requirements.txt
 
 Activate & Run Server
-python\venv\Scripts\activate
-cd python\login_signup 
+venv\Scripts\activate
+cd python
 python manage.py runserver
 
-
+python manage.py startapp
 
 ///
 cd python
@@ -17,4 +17,11 @@ django-admin startproject login_signup
 cd .\login_signup\
 
 python manage.py startapp base 
+
+//creatre project
+pip install django
+pip freeze
+django-admin startproject python
+django-admin startapp base
+python manage.py migrate  
 
